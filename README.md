@@ -1,2 +1,2 @@
 # alura-midi
-Curso de JavaScript feita na Alura
+Curso "JavaScript para Web: Crie páginas dinâmicas" realizado na Alura
